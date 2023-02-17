@@ -1,0 +1,13 @@
+body {
+font-family: sans-serif;
+color: gray;
+}
+
+header {
+    background-color: gray;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
