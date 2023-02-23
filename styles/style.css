@@ -1,10 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
 body {
-font-family: sans-serif;
+font-family: 'Quicksand', sans-serif;
 color: gray;
 }
 
 header {
     background-color: gray;
+}
+
+header h1 {
+    color: white;
+    font-weight: 300;
+}
+
+header h1 #logoux {
+    font-weight: 600;
+    font-style: italic;
 }
 
 header a {
